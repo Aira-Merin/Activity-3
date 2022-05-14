@@ -43,16 +43,16 @@
 }
 .student{
 	text-align: center;
-	font-family: helvetica;
+	font-family: Poppins;
 }
 .profile{
 	text-align: justify;
 	color: #ffffff;
-	font-family: helvetica;
+	font-family: Poppins;
 }
 .about{
 	text-align: justify;
-	font-family: helvetica;
+	font-family: Poppins;
 	color: #ffffff;
 }
 #email:link{
