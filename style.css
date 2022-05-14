@@ -39,14 +39,7 @@
 	padding: 1%;
 	border-radius: 15px;
 }
-.writting{
-	width: 84%;
-}
-.communication{
-	width: 75%;
-}
-.illustrating{
-	width: 90%;
+
 }
 .student{
 	text-align: center;
@@ -161,16 +154,16 @@ hr.line {
 }
 .student{
 	text-align: center;
-	font-family: helvetica;
+	font-family: Poppins;
 }
 .profile{
 	text-align: justify;
 	color: #ffffff;
-	font-family: helvetica;
+	font-family: Poppins;
 }
 .about{
 	text-align: justify;
-	font-family: helvetica;
+	font-family: Poppins;
 	color: #ffffff;
 }
 #email:link{
